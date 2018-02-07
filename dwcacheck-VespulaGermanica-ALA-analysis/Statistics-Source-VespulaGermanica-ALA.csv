@@ -1,0 +1,280 @@
+fieldName,emptyCount,nonEmptyCount,uniqueValueCount,possiblePrimaryKey,possiblyInteger,possiblyFloatingPoint,sampleValues
+"http://rs.tdwg.org/dwc/terms/basisOfRecord",0,413,3,false,false,false,"HumanObservation(*399), Image(*4), PreservedSpecimen(*10)"
+"http://purl.org/dc/terms/bibliographicCitation",413,0,0,false,false,false,
+"duplicate_field_http://purl.org/dc/terms/bibliographicCitation",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/collectionID",412,1,1,false,false,false,"urn:lsid:biocol.org:col:34978(*1)"
+"http://rs.tdwg.org/dwc/terms/collectionCode",400,13,3,false,false,false,"Entomology(*2), Invertebrates(*8), Observations(*3)"
+"http://rs.tdwg.org/dwc/terms/dataGeneralizations",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/datasetID",412,1,1,false,false,false,"Entomology(*1)"
+"http://rs.tdwg.org/dwc/terms/datasetName",410,3,2,false,false,false,"iNaturalist observations(*2), iNaturalist research-grade observations(*1)"
+"http://rs.tdwg.org/dwc/terms/dynamicProperties",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/informationWithheld",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/institutionID",412,1,1,false,false,false,"NMV(*1)"
+"http://rs.tdwg.org/dwc/terms/institutionCode",400,13,4,false,false,false,"AM(*1), NMV(*1), QVMAG(*8), iNaturalist(*3)"
+"http://purl.org/dc/terms/language",412,1,1,false,false,false,"en(*1)"
+"http://purl.org/dc/terms/license",412,1,1,false,false,false,"https://creativecommons.org/publicdomain/zero/1.0/legalcode(*1)"
+"http://purl.org/dc/terms/modified",332,81,15,false,false,false,"2012-02-19(*65), 2016-01-26(*1), 2016-03-07(*1), 2016-05-03(*1), 2016-06-11(*1), 2016-07-12(*1), 2016-07-13(*1), 2016-07-22(*1), 2016-07-29(*2), 2017-03-01(*1), 2017-03-09(*1), 2017-03-11(*1), 2017-03-15(*1), 2017-04-01(*2), 2017-04-07(*1)"
+"http://rs.tdwg.org/dwc/terms/ownerInstitutionCode",412,1,1,false,false,false,"NMV(*1)"
+"duplicate_field_basisOfRecord",0,413,3,false,false,false,"HumanObservation(*399), Image(*4), PreservedSpecimen(*10)"
+"http://purl.org/dc/terms/references",823,3,3,false,false,false,"http://www.inaturalist.org/observations/1123376(*1), http://www.inaturalist.org/observations/405760(*1), http://www.inaturalist.org/observations/5598323(*1)"
+"http://purl.org/dc/terms/accessRights",406,7,5,false,false,false,"Attribution License(*2), Attribution-NonCommercial-ShareAlike License(*2), Â© Scott Mills some rights reserved(*1), Â© Tony Ladson some rights reserved(*1), Â© spinner some rights reserved(*1)"
+"http://purl.org/dc/terms/rightsHolder",409,4,4,false,false,false,"Museum Victoria(*1), Scott Mills(*1), Tony Ladson(*1), spinner(*1)"
+"http://purl.org/dc/terms/type",825,1,1,false,false,false,"PhysicalObject(*1)"
+"http://rs.tdwg.org/dwc/terms/associatedMedia",326,87,55,false,false,false,"0_image_bae9672d-6bb7-4832-9b86-cd0876d44be9.jpg(*1), 0_image_ef730b03-edbb-4f70-be3b-10683a30d4b3.jpg(*1), 1.jpeg;2.jpeg;3.jpeg(*2), 1.jpeg;2.jpeg;3.jpeg;4.jpeg;5.jpeg(*2), 117139-Full1024.jpg(*1), 130067-Full1024.jpg(*1), 136.JPG(*1), 142162-Full1024.jpg(*1), 44539-Full1024.jpg(*1), 45164-Full1024.jpg(*1), 58e8c602ed2a8944100000c9.jpeg(*1), 73723-Full1024.jpg(*1), 77448-Full1024.jpg(*1), DSC00451.JPG(*1), IMG_1251.jpg(*1), Wasp_around_lemon_tree.jpg(*1), Wasp_on_freshly_cut_grass.jpg(*1), image0.jpg;image1.jpg(*1), image0.jpg;image1.jpg;image2.jpg;image3.jpg(*1), original.jpg(*1), ..."
+"http://rs.tdwg.org/dwc/terms/associatedReferences",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/associatedSequences",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/associatedTaxa",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/behavior",142,271,3,false,false,false,"Courting or mating(*11), Other(*17), Presence(*243)"
+"http://rs.tdwg.org/dwc/terms/catalogNumber",49,364,364,false,false,false,"405760(*1), 4f4c92beeebda94d82000c3a(*1), 4fc1db453f905e4a31000001(*1), 515e33793f905e12d5000038(*1), 51652ab33f905e1699000001(*1), 518c6e213f905e0a0f000005(*1), 527f7d833f905e39f6000001(*1), 5341fb083f905e2c73000001(*1), 54aa42e194cf707a9b000010(*1), 54d0284494cf7039a6000003(*1), 562db7ef94cf701ef1000093(*1), 6123(*1), 6126(*1), 6357(*1), 6469(*1), 6471(*1), 6488(*1), 7693(*1), 7694(*1), 7696(*1), ..."
+"http://rs.tdwg.org/dwc/terms/recordedBy",134,279,189,false,false,false,"29bface83a5ff103850fb67d0a45eb77ea3e0f66(*1), 3cbe193f1281b2465fc927b35b68abf4b4875067(*1), 47c79be08aa47d2b48a15697f39c741d84cdd688(*1), 51eadf06524440710d2a33446b1c677e4abaf8a0(*1), 6518e5e6829736f03e0f458e4e7a18100306ba18(*1), 7e2b00854e37a225f4aae0e251264e2f834a6c26(*2), 838980dd73d1d4530ec5e6ac1c63a4718ec1084e(*1), 9495af8a873e30dd7da46a143b849ca2750e0d1f(*1), Ball, P. P(*7), Brotherton, J. Julia|null(*3), Bryce, M. Mark(*6), Lakes, G. Gippsland|null(*1), Mcgowan, A. A(*4), Reid, C. Chris|Australian Museum|Entomology(*1), Spry, C. Colin(*4), b610ab729a5afb733fc06550b27e1b520e14261b(*1), d03e5786477aa76c5fdff75ef3cb05ea20dcbcc2(*1), dd2017be35d11a80375f0995714299b730767829(*1), e63e1042b42c4833fc25bf91352f267cec16e4b0(*1), fc3c37485d0c1b1773050dafb4d79af59192dfaf(*1), ..."
+"http://rs.tdwg.org/dwc/terms/disposition",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/establishmentMeans",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/individualCount",118,295,18,false,true,true,"1(*140), 10(*20), 100(*4), 12(*3), 15(*3), 18(*1), 2(*35), 20(*4), 25(*1), 3(*27), 30(*1), 4(*15), 40(*1), 5(*19), 50(*6), 6(*7), 7(*6), 8(*2)"
+"http://rs.tdwg.org/dwc/terms/lifeStage",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/occurrenceRemarks",285,128,122,false,false,false,"1 found only(*1), All individuals on the wasp nest.(*1), Collecting food (meat tray residue, dog liver treats, bacon offcuts)(*1), European Wasp(*2), European Wasp hibernating under bark - Vespula germanica(*1), Freshly cut grass attracted a number of wasps to the area. As they were flying low to the grass, it may of been due to the newly exposed undergrowth. The smell of freshly cut grass may of also attract...(*1), I found one nest under a blanket covering some soft furniture the nest was attached to the furniture. I destroyed that first nest. The second is under the flashing into the wall cavity. I applied Yate...(*1), I think this is a European Wasp.(*1), It was in my clothes on the back of my chair and it stung me(*1), It was in the vegetation(*1), Not active just hanging on door(*1), Partially destroyed nest(*1), They seem to fly everywhere and often crawls along plants.(*1), Vespula germanica were nesting in the ground. The nest was treated with permethrin 25:75 powder. ""How many"" has been mapped and estimated from the pilot ClimateWatch BDRS(*1), Wasp inspecting dead leaves and weeds in gutter(*1), Wasps appear to be setting up a nest under a rock. Several started flying aggressively about me when I disturbed them.However they are not very active around the garden or bothering us when we eat out...(*1), With hive.(*1), drinking at creek crossing(*1), small swarm of wasps flying around nest stuck to the rear brick wall under the eaves at apartment(*1), too fast to take photo(*1), ..."
+"http://rs.tdwg.org/dwc/terms/occurrenceStatus",0,413,1,false,false,false,"present(*413)"
+"http://rs.tdwg.org/dwc/terms/occurrenceID",386,27,27,false,false,false,"045802d2-8f7d-407d-a3cd-f7975ba2e135(*1), 0d235ea2-0fd5-4b9a-971a-a4415a863919(*1), 1dafcf3c-3a8f-4478-b162-d4f6c474fc8f(*1), 577be14a-7d17-4796-8ea1-1185927a5770(*1), 78006e40-32ee-4a44-a2b1-cc9833e2c16a(*1), 9078cd76-1e4b-4758-9523-704374d4493a(*1), URN:catalog:QVMAG:Invertebrates:QVM:12:24540(*1), URN:catalog:QVMAG:Invertebrates:QVM:12:43607(*1), URN:catalog:QVMAG:Invertebrates:QVM:12:43608(*1), URN:catalog:QVMAG:Invertebrates:QVM:12:43888(*1), cbd07488-f877-4735-9d5a-66860da5017d(*1), d11d2e48-f037-4820-b4c2-c4beb2bf3573(*1), e9aa2f44-58e0-4480-aa53-993b3b7e5cdb(*1), f9be8d2e-d809-45b2-879b-50d1b5d89a1c(*1), fb8fc23f-1f85-4fee-9a5c-0de7c92b0425(*1), http://www.flickr.com/photos/31031835@N08/7208757224/(*1), http://www.flickr.com/photos/malcolm_nq/5291096641/(*1), http://www.inaturalist.org/observations/405760(*1), https://www.flickr.com/photos/malcolm_nq/5291096641/(*1), https://www.inaturalist.org/observations/5598323(*1), ..."
+"http://rs.tdwg.org/dwc/terms/organismQuantity",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/organismQuantityType",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/otherCatalogNumbers",412,1,1,false,false,false,"ecatalogue.irn:1365560; urn:catalog:AM:Entomology:K.288665(*1)"
+"http://rs.tdwg.org/dwc/terms/preparations",405,8,3,false,false,false,"dry(*1), pin(*6), specimenForm=pinned(*1)"
+"http://rs.tdwg.org/dwc/terms/sex",412,1,1,false,false,false,"Female(*1)"
+"http://rs.tdwg.org/dwc/terms/recordNumber",380,33,33,false,false,false,"http://www.bowerbird.org.au/observations/16722(*1), http://www.bowerbird.org.au/observations/24147(*1), http://www.bowerbird.org.au/observations/24206(*1), http://www.bowerbird.org.au/observations/24320(*1), http://www.bowerbird.org.au/observations/32742(*1), http://www.bowerbird.org.au/observations/33316(*1), http://www.bowerbird.org.au/observations/39783(*1), http://www.bowerbird.org.au/observations/51112(*1), http://www.bowerbird.org.au/observations/53518(*1), http://www.bowerbird.org.au/observations/60286(*1), http://www.bowerbird.org.au/observations/67695(*1), http://www.bowerbird.org.au/observations/950(*1), questagame-34265(*1), questagame-37477(*1), questagame-4867(*1), questagame-50431(*1), questagame-61480(*1), questagame-6244(*1), questagame-64110(*1), questagame-68215(*1), ..."
+"http://rs.tdwg.org/dwc/terms/reproductiveCondition",404,9,3,false,false,false,"Animals - Adult/s - Female(*5), Animals - Adult/s - Sex unspecified(*3), Animals - Juvenile/s - Sex unspecified(*1)"
+"http://rs.tdwg.org/dwc/terms/associatedOrganisms",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/associatedOccurrences",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/organismID",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/organismName",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/organismRemarks",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/organismScope",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/previousIdentifications",348,65,1,false,false,false,"Vespula germanica(*65)"
+"http://rs.tdwg.org/dwc/terms/day",1,412,31,false,true,true,"10(*18), 11(*15), 12(*7), 13(*4), 14(*10), 15(*4), 16(*12), 17(*8), 18(*6), 19(*13), 22(*7), 23(*8), 24(*9), 25(*11), 26(*19), 27(*13), 28(*25), 29(*17), 30(*18), 31(*12), ..."
+"http://rs.tdwg.org/dwc/terms/endDayOfYear",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/eventRemarks",410,3,2,false,false,false,"Event date derived from photo,Tags: wasp, wasp-yellow-black(*1), Nest destroyed(*2)"
+"http://rs.tdwg.org/dwc/terms/eventTime",410,3,3,false,false,false,"00:20:00(*1), 11:05:54+11:00(*1), 17:00:11+10:00(*1)"
+"http://rs.tdwg.org/dwc/terms/eventID",411,2,2,false,false,false,"58e8c5fbed2a894865001303(*1), urn:australianmuseum.net.au:Events:1142948(*1)"
+"http://rs.tdwg.org/dwc/terms/fieldNotes",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/fieldNumber",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/habitat",161,252,82,false,false,false,"Backyard(*43), Botanic Garden, Nature Reserve, Parkland, Near a natural water source(*1), Nature Reserve, Not near water, On an open plain, Near a road(*1), Near a natural water source,In medium vegetation,Peri-urban(*1), Near a road,Peri-urban,Parkland(*1), Near an artificial water source(*6), Not near water(*1), Peri-urban,Backyard,Not near water,In medium vegetation(*1), Peri-urban,Near a natural water source,Near an artificial water source,Near a road,In medium vegetation(*1), Rural, Backyard, Near a natural water source, Near an artificial water source, In medium vegetation(*1), Rural, Backyard, Near an artificial water source, Near a road, In medium vegetation(*1), Rural, Near an artificial water source, Near a road(*1), Urban, Backyard, Not near water(*1), Urban,Backyard,Near a road(*1), Urban,Near a road(*1), back garden(*3), farmland(*1), in firewood(*1), nature reserve,near a natural water source(*1), near an artificial water source(*1), ..."
+"http://rs.tdwg.org/dwc/terms/month",1,412,12,false,true,true,"1(*16), 10(*31), 11(*13), 12(*10), 2(*23), 3(*112), 4(*117), 5(*60), 6(*3), 7(*4), 8(*4), 9(*19)"
+"http://rs.tdwg.org/dwc/terms/eventDate",1,412,274,false,false,false,"1998-03-21(*1), 1998-04-04(*1), 2009-09-24(*1), 2009-10-25(*1), 2011-10-02(*1), 2011-10-07(*1), 2011-10-11(*1), 2011-10-13(*1), 2011-10-16(*1), 2011-10-18(*1), 2011-10-19(*1), 2011-10-21(*1), 2012-03-15(*1), 2015-05-14(*1), 2015-05-23(*1), 2016-10-29(*1), 2016-10-30(*1), 2017-04-05(*2), 2017-04-08(*1), 2017-04-16(*1), ..."
+"http://rs.tdwg.org/dwc/terms/parentEventID",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/sampleSizeUnit",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/samplingEffort",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/samplingProtocol",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/startDayOfYear",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/verbatimEventDate",409,4,4,false,false,false,"2013-09-09 16:30:11(*1), 2017-04-05(*1), 2017-04-07T14:20:24Z,2017-04-07 02:20 PM(*1), Wed Dec 10 2014 10:05:54 GMT+1100 (AEDT)(*1)"
+"http://rs.tdwg.org/dwc/terms/year",1,412,20,false,true,true,"1986(*3), 1989(*1), 1990(*4), 1993(*1), 1996(*6), 1997(*22), 1998(*27), 1999(*2), 2000(*3), 2001(*1), 2004(*2), 2009(*2), 2010(*18), 2011(*15), 2012(*27), 2013(*106), 2014(*68), 2015(*74), 2016(*18), 2017(*12)"
+"http://rs.tdwg.org/dwc/terms/continent",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/coordinatePrecision",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/coordinateUncertaintyInMeters",171,242,14,false,true,true,"10(*2), 100(*13), 1000(*30), 10000(*1), 1500(*2), 16(*4), 200(*5), 2000(*1), 25(*1), 250(*1), 30(*160), 300(*1), 50(*12), 500(*9)"
+"http://rs.tdwg.org/dwc/terms/country",0,413,1,false,false,false,"Australia(*413)"
+"http://rs.tdwg.org/dwc/terms/countryCode",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/county",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/verbatimDepth",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/verbatimElevation",412,1,1,false,false,true,"158.931(*1)"
+"http://rs.tdwg.org/dwc/terms/footprintSRS",348,65,1,false,false,false,"PROJCS[""GDA94 / MGA zone 55"", 
+  GEOGCS[""GDA94"", 
+    DATUM[""Geocentric Datum of Australia 1994"", 
+      SPHEROID[""GRS 1980"", 6378137.0, 298.257222101, AUTHORITY[""EPSG"",""7019""]], 
+      TOWGS84[0.0, 0...(*65)"
+"http://rs.tdwg.org/dwc/terms/footprintSpatialFit",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/footprintWKT",348,65,65,false,false,false,"POINT (315112 5454583)(*1), POINT (375500 5288200)(*1), POINT (391746 5412397)(*1), POINT (399020 5290910)(*1), POINT (430612 5407883)(*1), POINT (431912 5336983)(*1), POINT (432212 5192083)(*1), POINT (439912 5423683)(*1), POINT (441612 5238683)(*1), POINT (451500 5240700)(*1), POINT (458912 5405783)(*1), POINT (488412 5350483)(*1), POINT (489812 5180483)(*1), POINT (492312 5220683)(*1), POINT (510512 5211783)(*1), POINT (561241 5347749)(*1), POINT (566012 5262583)(*1), POINT (575312 5236583)(*1), POINT (587412 5284983)(*1), POINT (606512 5335583)(*1), ..."
+"http://rs.tdwg.org/dwc/terms/geodeticDatum",0,413,1,false,false,false,"EPSG:4326(*413)"
+"http://rs.tdwg.org/dwc/terms/georeferenceProtocol",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/georeferenceRemarks",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/georeferenceSources",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/georeferenceVerificationStatus",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/georeferencedBy",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/georeferencedDate",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/higherGeography",412,1,1,false,false,false,"Australia, Victoria(*1)"
+"http://rs.tdwg.org/dwc/terms/higherGeographyID",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/island",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/islandGroup",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/decimalLatitude",0,413,365,false,false,true,"-31.904406(*1), -31.97767471(*1), -31.9838909(*1), -31.98397981(*1), -32.00957134(*1), -32.090611(*1), -33.61470656(*1), -33.86542916(*1), -33.915092(*1), -35.27551197(*1), -37.7516273727(*1), -37.75652219(*1), -37.822347(*1), -38.1(*1), -38.36373353(*1), -38.6(*1), -39.028145579(*1), -40.9263118869(*1), -41.70583861(*1), -42.1162892546(*1), ..."
+"http://rs.tdwg.org/dwc/terms/locality",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/locationAccordingTo",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/locationRemarks",404,9,4,false,false,false,";(*2), Live(*1), ecatalogue.LocCollectionEventLocal: ""Australia, Tasmania, Mount Field National Park (42° 40' S, 146° 35' E) 08/11/2010 - 08/11/2010, Reid, Dr Chris - Australian Museum - Entomology(Collector), Reid, E...(*1), live(*5)"
+"http://rs.tdwg.org/dwc/terms/locationID",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/decimalLongitude",0,413,366,false,false,true,"115.8191345(*1), 115.8375547(*1), 115.838252(*1), 115.8436594(*1), 115.9303907(*1), 117.236847(*1), 145.1145566(*1), 145.9783570145(*1), 146.1650728159(*1), 146.1767128462(*1), 147.0786151315(*1), 150.7497552(*1), 150.7919228(*1), 150.7988484(*2), 150.8546233(*1), 151.0181219(*1), 151.030315(*1), 151.069353(*1), 151.2156446(*1), 151.22062(*1), ..."
+"http://rs.tdwg.org/dwc/terms/maximumDepthInMeters",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/maximumElevationInMeters",412,1,1,false,false,true,"158.931(*1)"
+"http://rs.tdwg.org/dwc/terms/maximumDistanceAboveSurfaceInMeters",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/minimumDepthInMeters",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/minimumElevationInMeters",412,1,1,false,false,true,"158.931(*1)"
+"http://rs.tdwg.org/dwc/terms/minimumDistanceAboveSurfaceInMeters",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/municipality",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/pointRadiusSpatialFit",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/stateProvince",0,413,7,false,false,false,"Australian Capital Territory(*7), New South Wales(*136), Northern Territory(*1), South Australia(*5), Tasmania(*84), Victoria(*83), Western Australia(*97)"
+"http://rs.tdwg.org/dwc/terms/verbatimCoordinateSystem",347,66,2,false,false,false,"Easting and northing(*65), decimal degrees(*1)"
+"http://rs.tdwg.org/dwc/terms/verbatimCoordinates",348,65,65,false,false,false,"375500.0, 5288200.0(*1), 396794.0, 5419103.0(*1), 416800.0, 5232700.0(*1), 423812.0, 5361783.0(*1), 431912.0, 5336983.0(*1), 441612.0, 5238683.0(*1), 465800.0, 5179700.0(*1), 466200.0, 5210900.0(*1), 488412.0, 5350483.0(*1), 490812.0, 5174483.0(*1), 493400.0, 5189700.0(*1), 504512.0, 5241283.0(*1), 520212.0, 5187283.0(*1), 530012.0, 5252383.0(*1), 561241.0, 5347749.0(*1), 569612.0, 5224483.0(*1), 570512.0, 5231583.0(*1), 575312.0, 5236583.0(*1), 602412.0, 5338583.0(*1), 608412.0, 5363383.0(*1), ..."
+"http://rs.tdwg.org/dwc/terms/verbatimLatitude",411,2,2,false,false,false,"-36.792819(*1), 42° 40' S(*1)"
+"http://rs.tdwg.org/dwc/terms/verbatimLocality",408,5,5,false,false,false,"Abbotsford(*1), Adelaide, South Australia, Australia(*1), Guildford junction(*1), Merri Park, Northcote, VIC, AU(*1), Mount Field National Park(*1)"
+"http://rs.tdwg.org/dwc/terms/verbatimLongitude",411,2,2,false,false,false,"144.507441(*1), 146° 35' E(*1)"
+"http://rs.tdwg.org/dwc/terms/verbatimSRS",347,66,2,false,false,false,"EPSG:28355(*65), EPSG:4326(*1)"
+"http://rs.tdwg.org/dwc/terms/waterBody",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/identificationID",410,3,3,false,true,true,"11587153(*1), 2105768(*1), 678335(*1)"
+"http://rs.tdwg.org/dwc/terms/identificationReferences",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/identificationRemarks",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/identificationVerificationStatus",401,12,2,false,false,false,"confident(*11), uncertain(*1)"
+"http://rs.tdwg.org/dwc/terms/identifiedBy",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/dateIdentified",250,163,104,false,false,false,"2009-10-25(*1), 2011-10-02(*1), 2011-10-13(*1), 2011-10-16(*1), 2011-10-18(*1), 2011-10-19(*1), 2011-10-21(*1), 2012-03-15(*1), 2013-04-27(*2), 2013-04-29(*1), 2013-05-05(*2), 2013-05-08(*1), 2013-05-09(*3), 2013-05-10(*1), 2013-05-11(*3), 2013-05-12(*3), 2013-05-13(*1), 2013-05-14(*2), 2013-11-10(*1), 2017-04-07(*1), ..."
+"http://rs.tdwg.org/dwc/terms/identificationQualifier",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/typeStatus",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/acceptedNameUsage",412,1,1,false,false,false,"Vespula germanica (Fabricius, 1793)(*1)"
+"http://rs.tdwg.org/dwc/terms/acceptedNameUsageID",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/class",4,409,1,false,false,false,"Insecta(*409)"
+duplicate_field_class,316,97,1,false,false,false,"Insecta(*97)"
+"http://rs.tdwg.org/dwc/terms/vernacularName",0,413,1,false,false,false,"German wasp(*413)"
+"http://rs.tdwg.org/dwc/terms/family",0,413,1,false,false,false,"Vespidae(*413)"
+"http://rs.tdwg.org/dwc/terms/genus",0,413,1,false,false,false,"Vespula(*413)"
+"http://rs.tdwg.org/dwc/terms/higherClassification",412,1,1,false,false,false,"Animalia;Arthropoda;Uniramia;Insecta;Hymenoptera;Vespidae(*1)"
+"http://rs.tdwg.org/dwc/terms/infraspecificEpithet",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/kingdom",0,413,1,false,false,false,"Animalia(*413)"
+"http://rs.tdwg.org/dwc/terms/nameAccordingTo",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/nameAccordingToID",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/namePublishedIn",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/namePublishedInID",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/namePublishedInYear",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/nomenclaturalCode",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/nomenclaturalStatus",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/order",0,413,1,false,false,false,"Hymenoptera(*413)"
+"http://rs.tdwg.org/dwc/terms/originalNameUsageID",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/originalNameUsage",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/parentNameUsage",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/parentNameUsageID",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/phylum",0,413,1,false,false,false,"Arthropoda(*413)"
+"http://rs.tdwg.org/dwc/terms/taxonRank",0,413,1,false,false,false,"species(*413)"
+"http://rs.tdwg.org/dwc/terms/scientificNameAuthorship",412,1,1,false,false,false,"Linnaeus(*1)"
+"http://rs.tdwg.org/dwc/terms/scientificNameID",400,13,3,false,false,false,"1311649(*9), 53b398ece35eb12984038105(*1), urn:lsid:biodiversity.org.au:afd.taxon:29e723a2-48b8-4d64-9610-a65575dd5be9(*3)"
+"http://rs.tdwg.org/dwc/terms/specificEpithet",0,413,1,false,false,false,"Vespula germanica(*413)"
+"duplicate_field_specificEpithet",383,30,1,false,false,false,"germanica(*30)"
+"http://rs.tdwg.org/dwc/terms/subgenus",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/taxonID",345,68,2,false,false,false,"126155(*3), 70-15651(*65)"
+"http://rs.tdwg.org/dwc/terms/taxonRemarks",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/taxonConceptID",0,413,1,false,false,false,"urn:lsid:biodiversity.org.au:afd.taxon:182e9eae-5358-4261-8a17-b123c1200c8d(*413)"
+"http://rs.tdwg.org/dwc/terms/scientificName",0,413,1,false,false,false,"Vespula germanica(*413)"
+"http://rs.tdwg.org/dwc/terms/taxonomicStatus",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/verbatimTaxonRank",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/measurementAccuracy",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/measurementDeterminedBy",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/measurementDeterminedDate",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/measurementID",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/measurementMethod",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/measurementRemarks",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/measurementType",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/measurementUnit",413,0,0,false,false,false,
+"http://rs.tdwg.org/dwc/terms/measurementValue",413,0,0,false,false,false,
+austConservation.p,413,0,0,false,false,false,
+stateConservation.p,412,1,1,false,false,false,"(not listed),(*1)"
+speciesGroups.p,413,0,0,false,false,false,
+species_subgroup,413,0,0,false,false,false,
+altitudeInFeet,0,413,1,false,false,false,"false(*413)"
+altitudeNonNumeric,0,413,1,false,false,false,"false(*413)"
+altitudeOutOfRange,0,413,1,false,false,false,"false(*413)"
+ambiguousName,0,413,1,false,false,false,"false(*413)"
+"assumedPresentOccurrenceStatus",0,413,2,false,false,false,"false(*66), true(*347)"
+badlyFormedBasisOfRecord,0,413,1,false,false,false,"false(*413)"
+"coordinatePrecisionMismatch",0,413,1,false,false,false,"false(*413)"
+"coordinatesCentreOfCountry",0,413,1,false,false,false,"false(*413)"
+"coordinatesCentreOfStateProvince",0,413,1,false,false,false,"false(*413)"
+coordinatesOutOfRange,0,413,1,false,false,false,"false(*413)"
+"countryCoordinateMismatch",0,413,1,false,false,false,"false(*413)"
+"countryInferredByCoordinates",0,413,2,false,false,false,"false(*14), true(*399)"
+dataAreGeneralised,0,413,1,false,false,false,"false(*413)"
+datePrecisionMismatch,0,413,1,false,false,false,"false(*413)"
+dayMonthTransposed,0,413,1,false,false,false,"false(*413)"
+"decimalCoordinatesNotSupplied",0,413,1,false,false,false,"false(*413)"
+"decimalLatLongCalculatedFromEastingNorthing",0,413,1,false,false,false,"false(*413)"
+"decimalLatLongCalculatedFromGridReference",0,413,1,false,false,false,"false(*413)"
+"decimalLatLongCalculatedFromVerbatim",0,413,1,false,false,false,"false(*413)"
+"decimalLatLongCalculationFromEastingNorthingFailed",0,413,1,false,false,false,"false(*413)"
+"decimalLatLongCalculationFromVerbatimFailed",0,413,1,false,false,false,"false(*413)"
+"decimalLatLongConversionFailed",0,413,1,false,false,false,"false(*413)"
+decimalLatLongConverted,0,413,1,false,false,false,"false(*413)"
+depthInFeet,0,413,1,false,false,false,"false(*413)"
+depthNonNumeric,0,413,1,false,false,false,"false(*413)"
+depthOutOfRange,0,413,1,false,false,false,"false(*413)"
+detectedOutlier,0,413,2,false,false,false,"false(*404), true(*9)"
+erroneousAltitude,0,413,1,false,false,false,"false(*413)"
+firstOfCentury,0,413,1,false,false,false,"false(*413)"
+firstOfMonth,0,413,2,false,false,false,"false(*396), true(*17)"
+firstOfYear,0,413,1,false,false,false,"false(*413)"
+"geodeticDatumAssumedWgs84",0,413,2,false,false,false,"false(*112), true(*301)"
+georefPostDate,0,413,1,false,false,false,"false(*413)"
+geospatialIssue,0,413,1,false,false,false,"false(*413)"
+habitatMismatch,0,413,1,false,false,false,"false(*413)"
+homonymIssue,0,413,1,false,false,false,"false(*413)"
+identificationIncorrect,0,413,1,false,false,false,"false(*413)"
+idPreOccurrence,0,413,1,false,false,false,"false(*413)"
+incompleteCollectionDate,0,413,1,false,false,false,"false(*413)"
+inferredDuplicateRecord,0,413,1,false,false,false,"false(*413)"
+invalidCollectionDate,0,413,1,false,false,false,"false(*413)"
+invalidGeodeticDatum,0,413,1,false,false,false,"false(*413)"
+invalidImageUrl,0,413,1,false,false,false,"false(*413)"
+invalidScientificName,0,413,1,false,false,false,"false(*413)"
+invertedCoordinates,0,413,2,false,false,false,"false(*408), true(*5)"
+locationNotSupplied,0,413,1,false,false,false,"false(*413)"
+mediaRepresentative,0,413,1,false,false,false,"false(*413)"
+mediaUnrepresentative,0,413,1,false,false,false,"false(*413)"
+minMaxAltitudeReversed,0,413,1,false,false,false,"false(*413)"
+minMaxDepthReversed,0,413,1,false,false,false,"false(*413)"
+missingBasisOfRecord,0,413,1,false,false,false,"false(*413)"
+missingCatalogueNumber,0,413,2,false,false,false,"false(*364), true(*49)"
+missingCollectionDate,0,413,2,false,false,false,"false(*412), true(*1)"
+"missingCoordinatePrecision",0,413,2,false,false,false,"false(*1), true(*412)"
+missingDateIdentified,0,413,2,false,false,false,"false(*164), true(*249)"
+missingGeodeticDatum,0,413,1,false,false,false,"false(*413)"
+missingGeorefencedBy,0,413,1,false,false,false,"true(*413)"
+missingGeoreferenceDate,0,413,1,false,false,false,"true(*413)"
+"missingGeoreferenceProtocol",0,413,2,false,false,false,"false(*13), true(*400)"
+"missingGeoreferenceSources",0,413,2,false,false,false,"false(*1), true(*412)"
+"missingGeoreferenceVerificationStatus",0,413,1,false,false,false,"true(*413)"
+"missingIdentificationQualifier",0,413,1,false,false,false,"true(*413)"
+"missingIdentificationReferences",0,413,1,false,false,false,"true(*413)"
+missingIdentifiedBy,0,413,2,false,false,false,"false(*162), true(*251)"
+missingTaxonRank,0,413,2,false,false,false,"false(*4), true(*409)"
+"nameNotInNationalChecklists",0,413,1,false,false,false,"false(*413)"
+nameNotRecognised,0,413,1,false,false,false,"false(*413)"
+nameNotSupplied,0,413,1,false,false,false,"false(*413)"
+negatedLatitude,0,413,1,false,false,false,"false(*413)"
+negatedLongitude,0,413,1,false,false,false,"false(*413)"
+occCultivatedEscapee,0,413,1,false,false,false,"false(*413)"
+precisionRangeMismatch,0,413,1,false,false,false,"false(*413)"
+processingError,0,413,1,false,false,false,"false(*413)"
+recordedByUnparsable,0,413,1,false,false,false,"false(*413)"
+"resourceTaxonomicScopeMismatch",0,413,1,false,false,false,"false(*413)"
+"speciesOutsideExpertRange",0,413,1,false,false,false,"false(*413)"
+stateCoordinateMismatch,0,413,1,false,false,false,"false(*413)"
+taxonomicIssue,0,413,2,false,false,false,"false(*412), true(*1)"
+temporalIssue,0,413,1,false,false,false,"false(*413)"
+uncertaintyInPrecision,0,413,1,false,false,false,"false(*413)"
+uncertaintyNotSpecified,0,413,2,false,false,false,"false(*242), true(*171)"
+uncertaintyRangeMismatch,0,413,1,false,false,false,"false(*413)"
+unknownCountry,0,413,1,false,false,false,"false(*413)"
+unknownKingdom,0,413,1,false,false,false,"false(*413)"
+"unrecognisedCollectionCode",0,413,1,false,false,false,"false(*413)"
+"unrecognisedInstitutionCode",0,413,1,false,false,false,"false(*413)"
+"unrecognisedOccurrenceStatus",0,413,1,false,false,false,"false(*413)"
+unrecognisedTypeStatus,0,413,1,false,false,false,"false(*413)"
+"unrecognizedGeodeticDatum",0,413,1,false,false,false,"false(*413)"
+userVerified,0,413,1,false,false,false,"false(*413)"
+zeroCoordinates,0,413,1,false,false,false,"false(*413)"
+zeroLatitude,0,413,1,false,false,false,"false(*413)"
+zeroLongitude,0,413,1,false,false,false,"false(*413)"
+recorderID,288,125,106,false,true,true,"115(*1), 126(*1), 16(*1), 18(*1), 2(*1), 232(*1), 237(*2), 245(*1), 350(*1), 472(*1), 489(*1), 5(*1), 510(*3), 522(*2), 596(*1), 631(*1), 760(*2), 879(*1), 885(*1), 907(*1), ..."
+reviewComments,398,15,3,false,false,false,"Don't think it is correct species - please check(*1), Far out of expected range - Perth(*13), Quality sighting(*1)"
+submissionMethod,401,12,1,false,false,false,"website(*12)"
+"http://purl.org/dc/terms/references",823,3,3,false,false,false,"http://www.inaturalist.org/observations/1123376(*1), http://www.inaturalist.org/observations/405760(*1), http://www.inaturalist.org/observations/5598323(*1)"
+"duplicate_field_http://purl.org/dc/terms/type",412,1,1,false,false,false,"PhysicalObject(*1)"
+"duplicate_field_http://purl.org/dc/terms/modified",824,2,2,false,false,false,"2012/3/5(*1), 2017-04-08T12:09:25Z(*1)"
+verbatimUncertainty,412,1,1,false,false,false,"1km-10km(*1)"
+"http://purl.org/dc/terms/type",825,1,1,false,false,false,"PhysicalObject(*1)"
+occurenceID,405,8,8,false,false,false,"URN:catalog:QVMAG:Invertebrates:QVM:12:24540(*1), URN:catalog:QVMAG:Invertebrates:QVM:12:43607(*1), URN:catalog:QVMAG:Invertebrates:QVM:12:43608(*1), URN:catalog:QVMAG:Invertebrates:QVM:12:43888(*1), URN:catalog:QVMAG:Invertebrates:QVM:12:44181(*1), URN:catalog:QVMAG:Invertebrates:QVM:12:44182(*1), URN:catalog:QVMAG:Invertebrates:QVM:2014:12:0055(*1), URN:catalog:QVMAG:Invertebrates:QVM:2015:12:1366(*1)"
+"duplicate_field_http://purl.org/dc/terms/license",412,1,1,false,false,false,"Creative Commons Attribution 2.5 Australia Licence(*1)"
+"duplicate_field_http://purl.org/dc/terms/modified",824,2,2,false,false,false,"2012/3/5(*1), 2017-04-08T12:09:25Z(*1)"
+LAST_UPDATE_USER_ID,348,65,5,false,false,false,"GTSpot Load(*53), Observation Batch 10415(*2), Observation Batch 10431(*3), Person merge by: David Storey (3218)(*1), Person merge by: Naomi Lawrence (1799)(*6)"
+CREATION_DATE,348,65,5,false,false,false,"1989-02-28Z(*1), 1990-02-28Z(*4), 1996-03-19Z(*1), 2006-04-11Z(*54), 2008-11-03Z(*5)"
+DATE_ACCURACY,348,65,3,false,false,false,"Day(*9), Month(*5), Unknown(*51)"
+FOREIGN_ID,359,54,54,false,false,false,"ExoticSp:ES:1212/1(*1), ExoticSp:ES:1231/1(*1), ExoticSp:ES:1235/1(*1), ExoticSp:ES:1286/1(*1), ExoticSp:ES:1316/2(*1), ExoticSp:ES:1321/1(*1), ExoticSp:ES:331/1(*1), ExoticSp:ES:375/1(*1), ExoticSp:ES:465/1(*1), ExoticSp:ES:527/1(*1), ExoticSp:ES:551/1(*1), ExoticSp:ES:580/1(*1), ExoticSp:ES:617/1(*1), ExoticSp:ES:725/1(*1), ExoticSp:ES:740/1(*1), ExoticSp:ES:763/1(*1), ExoticSp:ES:765/1(*1), ExoticSp:ES:774/1(*1), ExoticSp:ES:806/1(*1), tp:tp:85/1(*1), ..."
+"http://purl.org/dc/terms/rights",393,20,2,false,false,false,"BY(*1), BY-NC-SA(*19)"

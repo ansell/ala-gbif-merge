@@ -1,0 +1,196 @@
+OldField,NewField,Shown,Language,Mapping
+AbcdConcept0850,AbcdConcept0850,,DBSCHEMA,INTEGER
+AbcdConcept1433,AbcdConcept1433,,DBSCHEMA,TEXT
+"Altitude out of range","Altitude out of range",,DBSCHEMA,INTEGER
+"Altitude value non-numeric","Altitude value non-numeric",,DBSCHEMA,INTEGER
+"Altitude value supplied in feet","Altitude value supplied in feet",,DBSCHEMA,INTEGER
+"http://rs.tdwg.org/dwc/terms/associatedMedia","http://rs.tdwg.org/dwc/terms/associatedMedia",,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/associatedOccurrences","http://rs.tdwg.org/dwc/terms/associatedOccurrences",,DBSCHEMA,TEXT
+"Badly formed altitude","Badly formed altitude",,DBSCHEMA,INTEGER
+"Basis of record badly formed","Basis of record badly formed",,DBSCHEMA,INTEGER
+"Basis of record not supplied","Basis of record not supplied",,DBSCHEMA,INTEGER
+"http://rs.tdwg.org/dwc/terms/basisOfRecord","http://rs.tdwg.org/dwc/terms/basisOfRecord",,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/catalogNumber","http://rs.tdwg.org/dwc/terms/catalogNumber",,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/class","http://rs.tdwg.org/dwc/terms/class",,DBSCHEMA,TEXT
+"Collection code not recognised","Collection code not recognised",,DBSCHEMA,INTEGER
+"http://rs.tdwg.org/dwc/terms/collectionCode","http://rs.tdwg.org/dwc/terms/collectionCode",,DBSCHEMA,TEXT
+"Collector name unparseable","Collector name unparseable",,DBSCHEMA,INTEGER
+"CONSERVATION_SIGNIFICANCE_YN","CONSERVATION_SIGNIFICANCE_YN",,DBSCHEMA,TEXT
+"Coordinate precision and uncertainty transposed","Coordinate precision and uncertainty transposed",,DBSCHEMA,INTEGER
+"Coordinate precision not valid","Coordinate precision not valid",,DBSCHEMA,INTEGER
+"Coordinate uncertainty not specified","Coordinate uncertainty not specified",,DBSCHEMA,INTEGER
+"Coordinate uncertainty not valid","Coordinate uncertainty not valid",,DBSCHEMA,INTEGER
+"Coordinates are out of range for species","Coordinates are out of range for species",,DBSCHEMA,INTEGER
+"Coordinates are transposed","Coordinates are transposed",,DBSCHEMA,INTEGER
+"Coordinates centre of country","Coordinates centre of country",,DBSCHEMA,INTEGER
+"Coordinates converted from UTM","Coordinates converted from UTM",,DBSCHEMA,INTEGER
+"Coordinates converted to WGS84","Coordinates converted to WGS84",,DBSCHEMA,INTEGER
+"Coordinates derived from verbatim coordinates","Coordinates derived from verbatim coordinates",,DBSCHEMA,INTEGER
+"Coordinates dont match supplied country","Coordinates dont match supplied country",,DBSCHEMA,INTEGER
+"Coordinates dont match supplied state","Coordinates dont match supplied state",,DBSCHEMA,INTEGER
+"http://rs.tdwg.org/dwc/terms/coordinateUncertaintyInMeters","http://rs.tdwg.org/dwc/terms/coordinateUncertaintyInMeters",,DBSCHEMA,INTEGER
+"http://rs.tdwg.org/dwc/terms/country","http://rs.tdwg.org/dwc/terms/country",,DBSCHEMA,TEXT
+"Country inferred from coordinates","Country inferred from coordinates",,DBSCHEMA,INTEGER
+"http://rs.tdwg.org/dwc/terms/countryCode","http://rs.tdwg.org/dwc/terms/countryCode",,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/county","http://rs.tdwg.org/dwc/terms/county",,DBSCHEMA,TEXT
+COVERABUND,COVERABUND,,DBSCHEMA,TEXT
+CREATION_DATE,CREATION_DATE,,DBSCHEMA,TEXT
+"Cultivated / escapee","Cultivated / escapee",,DBSCHEMA,INTEGER
+"Data are generalised","Data are generalised",,DBSCHEMA,INTEGER
+dataset_version_date,dataset_version_date,,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/datasetID","http://rs.tdwg.org/dwc/terms/datasetID",,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/datasetName","http://rs.tdwg.org/dwc/terms/datasetName",,DBSCHEMA,TEXT
+"Date precision invalid","Date precision invalid",,DBSCHEMA,INTEGER
+DATE_ACCURACY,DATE_ACCURACY,,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/dateIdentified","http://rs.tdwg.org/dwc/terms/dateIdentified",,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/day","http://rs.tdwg.org/dwc/terms/day",,DBSCHEMA,INTEGER
+"Day and month transposed","Day and month transposed",,DBSCHEMA,INTEGER
+dcterms:accessRights,dcterms:accessRights,,DBSCHEMA,TEXT
+dcterms:modified,dcterms:modified,,DBSCHEMA,TEXT
+dcterms:rights,dcterms:rights,,DBSCHEMA,TEXT
+"Decimal coordinates not supplied","Decimal coordinates not supplied",,DBSCHEMA,INTEGER
+"Decimal latitude/longitude conversion failed","Decimal latitude/longitude conversion failed",,DBSCHEMA,INTEGER
+"http://rs.tdwg.org/dwc/terms/decimalLatitude","http://rs.tdwg.org/dwc/terms/decimalLatitude",,DBSCHEMA,DECIMAL
+"http://rs.tdwg.org/dwc/terms/decimalLongitude","http://rs.tdwg.org/dwc/terms/decimalLongitude",,DBSCHEMA,DECIMAL
+"Depth out of range","Depth out of range",,DBSCHEMA,INTEGER
+"Depth value non-numeric","Depth value non-numeric",,DBSCHEMA,INTEGER
+"Depth value supplied in feet","Depth value supplied in feet",,DBSCHEMA,INTEGER
+"http://rs.tdwg.org/dwc/terms/establishmentMeans","http://rs.tdwg.org/dwc/terms/establishmentMeans",,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/eventDate","http://rs.tdwg.org/dwc/terms/eventDate",,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/eventID","http://rs.tdwg.org/dwc/terms/eventID",,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/eventRemarks","http://rs.tdwg.org/dwc/terms/eventRemarks",,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/family","http://rs.tdwg.org/dwc/terms/family",,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/fieldNumber","http://rs.tdwg.org/dwc/terms/fieldNumber",,DBSCHEMA,TEXT
+"First of the century","First of the century",,DBSCHEMA,INTEGER
+"First of the month","First of the month",,DBSCHEMA,INTEGER
+"First of the year","First of the year",,DBSCHEMA,INTEGER
+"http://rs.tdwg.org/dwc/terms/footprintSRS","http://rs.tdwg.org/dwc/terms/footprintSRS",,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/footprintWKT","http://rs.tdwg.org/dwc/terms/footprintWKT",,DBSCHEMA,TEXT
+FOREIGN_ID,FOREIGN_ID,,DBSCHEMA,TEXT
+frequency,frequency,,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/genus","http://rs.tdwg.org/dwc/terms/genus",,DBSCHEMA,TEXT
+"Geodetic datum assumed WGS84","Geodetic datum assumed WGS84",,DBSCHEMA,INTEGER
+"http://rs.tdwg.org/dwc/terms/geodeticDatum","http://rs.tdwg.org/dwc/terms/geodeticDatum",,DBSCHEMA,TEXT
+"Georeferenced after occurrence date","Georeferenced after occurrence date",,DBSCHEMA,INTEGER
+"http://rs.tdwg.org/dwc/terms/georeferenceRemarks","http://rs.tdwg.org/dwc/terms/georeferenceRemarks",,DBSCHEMA,TEXT
+"Geospatial issue","Geospatial issue",,DBSCHEMA,INTEGER
+"http://rs.tdwg.org/dwc/terms/habitat","http://rs.tdwg.org/dwc/terms/habitat",,DBSCHEMA,TEXT
+"Habitat incorrect for species","Habitat incorrect for species",,DBSCHEMA,INTEGER
+"Higher taxonomy missing","Higher taxonomy missing",,DBSCHEMA,INTEGER
+"Homonym issues with supplied name","Homonym issues with supplied name",,DBSCHEMA,INTEGER
+ibraSubregion,ibraSubregion,,DBSCHEMA,TEXT
+"Identification date before occurrence date","Identification date before occurrence date",,DBSCHEMA,INTEGER
+"http://rs.tdwg.org/dwc/terms/identificationID","http://rs.tdwg.org/dwc/terms/identificationID",,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/identificationQualifier","http://rs.tdwg.org/dwc/terms/identificationQualifier",,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/identificationRemarks","http://rs.tdwg.org/dwc/terms/identificationRemarks",,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/identificationVerificationStatus","http://rs.tdwg.org/dwc/terms/identificationVerificationStatus",,DBSCHEMA,TEXT
+"Image URL invalid","Image URL invalid",,DBSCHEMA,INTEGER
+"Incomplete collection date","Incomplete collection date",,DBSCHEMA,INTEGER
+"http://rs.tdwg.org/dwc/terms/individualCount","http://rs.tdwg.org/dwc/terms/individualCount",,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/infraspecificEpithet","http://rs.tdwg.org/dwc/terms/infraspecificEpithet",,DBSCHEMA,TEXT
+"Institution code not recognised","Institution code not recognised",,DBSCHEMA,INTEGER
+"http://rs.tdwg.org/dwc/terms/institutionCode","http://rs.tdwg.org/dwc/terms/institutionCode",,DBSCHEMA,TEXT
+"Invalid collection date","Invalid collection date",,DBSCHEMA,INTEGER
+"Invalid geodetic datum","Invalid geodetic datum",,DBSCHEMA,INTEGER
+"Invalid scientific name","Invalid scientific name",,DBSCHEMA,INTEGER
+"http://rs.tdwg.org/dwc/terms/kingdom","http://rs.tdwg.org/dwc/terms/kingdom",,DBSCHEMA,TEXT
+"Kingdom not recognised","Kingdom not recognised",,DBSCHEMA,INTEGER
+LAST_UPDATE_USER_ID,LAST_UPDATE_USER_ID,,DBSCHEMA,TEXT
+"Latitude is negated","Latitude is negated",,DBSCHEMA,INTEGER
+"Latitude Longitude calculated from grid reference","Latitude Longitude calculated from grid reference",,DBSCHEMA,INTEGER
+"Location not supplied","Location not supplied",,DBSCHEMA,INTEGER
+"http://rs.tdwg.org/dwc/terms/locationRemarks","http://rs.tdwg.org/dwc/terms/locationRemarks",,DBSCHEMA,TEXT
+"Longitude is negated","Longitude is negated",,DBSCHEMA,INTEGER
+"http://rs.tdwg.org/dwc/terms/maximumElevationInMeters","http://rs.tdwg.org/dwc/terms/maximumElevationInMeters",,DBSCHEMA,DECIMAL
+"media Unrepresentative","media Unrepresentative",,DBSCHEMA,INTEGER
+"Min and max altitude reversed","Min and max altitude reversed",,DBSCHEMA,INTEGER
+"Min and max depth reversed","Min and max depth reversed",,DBSCHEMA,INTEGER
+"http://rs.tdwg.org/dwc/terms/minimumElevationInMeters","http://rs.tdwg.org/dwc/terms/minimumElevationInMeters",,DBSCHEMA,DECIMAL
+"Missing an identification qualifier","Missing an identification qualifier",,DBSCHEMA,INTEGER
+"Missing catalogue number","Missing catalogue number",,DBSCHEMA,INTEGER
+"Missing coordinate precision","Missing coordinate precision",,DBSCHEMA,INTEGER
+"Missing geodetic datum","Missing geodetic datum",,DBSCHEMA,INTEGER
+"Missing georeference date","Missing georeference date",,DBSCHEMA,INTEGER
+"Missing georeferenced protocol","Missing georeferenced protocol",,DBSCHEMA,INTEGER
+"Missing georeferenced sources","Missing georeferenced sources",,DBSCHEMA,INTEGER
+"Missing georeferenced verification status","Missing georeferenced verification status",,DBSCHEMA,INTEGER
+"Missing identification date","Missing identification date",,DBSCHEMA,INTEGER
+"Missing identification references","Missing identification references",,DBSCHEMA,INTEGER
+"Missing name of person who georeferenced the occurrence","Missing name of person who georeferenced the occurrence",,DBSCHEMA,INTEGER
+"Missing name of person who identified the specimen/observation","Missing name of person who identified the specimen/observation",,DBSCHEMA,INTEGER
+"Missing taxonomic rank","Missing taxonomic rank",,DBSCHEMA,INTEGER
+"http://rs.tdwg.org/dwc/terms/month","http://rs.tdwg.org/dwc/terms/month",,DBSCHEMA,INTEGER
+"Name not in national checklists","Name not in national checklists",,DBSCHEMA,INTEGER
+"Name not recognised","Name not recognised",,DBSCHEMA,INTEGER
+"Name not supplied","Name not supplied",,DBSCHEMA,INTEGER
+"http://rs.tdwg.org/dwc/terms/namePublishedIn","http://rs.tdwg.org/dwc/terms/namePublishedIn",,DBSCHEMA,TEXT
+"No collection date supplied","No collection date supplied",,DBSCHEMA,INTEGER
+NVIS_GF,NVIS_GF,,DBSCHEMA,TEXT
+"Occurrence status assumed to be present","Occurrence status assumed to be present",,DBSCHEMA,INTEGER
+"http://rs.tdwg.org/dwc/terms/occurrenceID","http://rs.tdwg.org/dwc/terms/occurrenceID",,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/occurrenceRemarks","http://rs.tdwg.org/dwc/terms/occurrenceRemarks",,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/occurrenceStatus","http://rs.tdwg.org/dwc/terms/occurrenceStatus",,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/order","http://rs.tdwg.org/dwc/terms/order",,DBSCHEMA,TEXT
+"Outside expert range for species","Outside expert range for species",,DBSCHEMA,INTEGER
+"http://rs.tdwg.org/dwc/terms/parentEventID","http://rs.tdwg.org/dwc/terms/parentEventID",,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/phylum","http://rs.tdwg.org/dwc/terms/phylum",,DBSCHEMA,TEXT
+"Possible duplicate record","Possible duplicate record",,DBSCHEMA,INTEGER
+"Precision / range mismatch","Precision / range mismatch",,DBSCHEMA,INTEGER
+"http://rs.tdwg.org/dwc/terms/preparations","http://rs.tdwg.org/dwc/terms/preparations",,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/previousIdentifications","http://rs.tdwg.org/dwc/terms/previousIdentifications",,DBSCHEMA,TEXT
+"processing Error","processing Error",,DBSCHEMA,INTEGER
+PROJECT_ID,PROJECT_ID,,DBSCHEMA,INTEGER
+QUADID_ETC,QUADID_ETC,,DBSCHEMA,TEXT
+"Record Verified","Record Verified",,DBSCHEMA,INTEGER
+"http://rs.tdwg.org/dwc/terms/recordedBy","http://rs.tdwg.org/dwc/terms/recordedBy",,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/recordNumber","http://rs.tdwg.org/dwc/terms/recordNumber",,DBSCHEMA,TEXT
+REPORTED_DATE,REPORTED_DATE,,DBSCHEMA,TEXT
+REPORTER_TEXT,REPORTER_TEXT,,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/reproductiveCondition","http://rs.tdwg.org/dwc/terms/reproductiveCondition",,DBSCHEMA,TEXT
+RESERVATION_STATUS,RESERVATION_STATUS,,DBSCHEMA,TEXT
+"Resource taxonomic scope mismatch","Resource taxonomic scope mismatch",,DBSCHEMA,INTEGER
+"http://purl.org/dc/terms/rightsHolder","http://purl.org/dc/terms/rightsHolder",,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/scientificName","http://rs.tdwg.org/dwc/terms/scientificName",,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/scientificNameAuthorship","http://rs.tdwg.org/dwc/terms/scientificNameAuthorship",,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/scientificNameID","http://rs.tdwg.org/dwc/terms/scientificNameID",,DBSCHEMA,TEXT
+site_accuracy_km,site_accuracy_km,,DBSCHEMA,DECIMAL
+site_modification_date,site_modification_date,,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/specificEpithet","http://rs.tdwg.org/dwc/terms/specificEpithet",,DBSCHEMA,TEXT
+stateConservation.p,stateConservation.p,,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/stateProvince","http://rs.tdwg.org/dwc/terms/stateProvince",,DBSCHEMA,TEXT
+submissionMethod,submissionMethod,,DBSCHEMA,TEXT
+"Supplied coordinates are zero","Supplied coordinates are zero",,DBSCHEMA,INTEGER
+"Supplied coordinates centre of state","Supplied coordinates centre of state",,DBSCHEMA,INTEGER
+"Supplied country not recognised","Supplied country not recognised",,DBSCHEMA,INTEGER
+surveyName,surveyName,,DBSCHEMA,TEXT
+"Suspected outlier","Suspected outlier",,DBSCHEMA,INTEGER
+"Taxon misidentified","Taxon misidentified",,DBSCHEMA,INTEGER
+taxon_modification_date,taxon_modification_date,,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/taxonConceptID","http://rs.tdwg.org/dwc/terms/taxonConceptID",,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/taxonID","http://rs.tdwg.org/dwc/terms/taxonID",,DBSCHEMA,TEXT
+"Taxonomic issue","Taxonomic issue",,DBSCHEMA,INTEGER
+"http://rs.tdwg.org/dwc/terms/taxonRank","http://rs.tdwg.org/dwc/terms/taxonRank",,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/taxonRemarks","http://rs.tdwg.org/dwc/terms/taxonRemarks",,DBSCHEMA,TEXT
+"Temporal issue","Temporal issue",,DBSCHEMA,INTEGER
+"Type status not recognised","Type status not recognised",,DBSCHEMA,INTEGER
+"Unable to convert UTM coordinates","Unable to convert UTM coordinates",,DBSCHEMA,INTEGER
+"Unparseable verbatim coordinates","Unparseable verbatim coordinates",,DBSCHEMA,INTEGER
+"unrecognised Occurrence Status","unrecognised Occurrence Status",,DBSCHEMA,INTEGER
+"Unrecognized geodetic datum","Unrecognized geodetic datum",,DBSCHEMA,INTEGER
+vegetation,vegetation,,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/verbatimCoordinates","http://rs.tdwg.org/dwc/terms/verbatimCoordinates",,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/verbatimCoordinateSystem","http://rs.tdwg.org/dwc/terms/verbatimCoordinateSystem",,DBSCHEMA,TEXT
+"verbatimCoordinateUncertainty","verbatimCoordinateUncertainty",,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/verbatimElevation","http://rs.tdwg.org/dwc/terms/verbatimElevation",,DBSCHEMA,DECIMAL
+"http://rs.tdwg.org/dwc/terms/verbatimEventDate","http://rs.tdwg.org/dwc/terms/verbatimEventDate",,DBSCHEMA,TEXT
+"verbatimEventDateAccuracy","verbatimEventDateAccuracy",,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/verbatimLatitude","http://rs.tdwg.org/dwc/terms/verbatimLatitude",,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/verbatimLocality","http://rs.tdwg.org/dwc/terms/verbatimLocality",,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/verbatimLongitude","http://rs.tdwg.org/dwc/terms/verbatimLongitude",,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/verbatimSRS","http://rs.tdwg.org/dwc/terms/verbatimSRS",,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/vernacularName","http://rs.tdwg.org/dwc/terms/vernacularName",,DBSCHEMA,TEXT
+VIC_LF,VIC_LF,,DBSCHEMA,TEXT
+voucher,voucher,,DBSCHEMA,TEXT
+"http://rs.tdwg.org/dwc/terms/year","http://rs.tdwg.org/dwc/terms/year",,DBSCHEMA,INTEGER
+"Zero latitude","Zero latitude",,DBSCHEMA,INTEGER
+"Zero longitude","Zero longitude",,DBSCHEMA,INTEGER
