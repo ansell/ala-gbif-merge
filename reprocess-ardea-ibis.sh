@@ -3,7 +3,8 @@
 set -e
 set -x
 
-INPUT_FOLDER="/media/sf_HostDesktop/LeeBelbin_ALAGBIFMerge/FromLee/"
+#INPUT_FOLDER="/media/sf_HostDesktop/LeeBelbin_ALAGBIFMerge/FromLee/"
+INPUT_FOLDER="./Source-Files/"
 OUTPUT_FOLDER="./"
 mkdir -p "${OUTPUT_FOLDER}"
 CSVSUM_PATH="../csvsum/"
