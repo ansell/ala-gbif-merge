@@ -12,7 +12,7 @@ DWCA_UTILS_PATH="../dwca-utils/"
 
 # Stage 1: Ardea ibis from ALA
 ARDEA_ALA_OUTPUT_FOLDER="${OUTPUT_FOLDER}Mapped-ArdeaIbis-ALA/"
-rm -rf "${ARDEA_ALA_OUTPUT_FOLDER}"
+rm -r "${ARDEA_ALA_OUTPUT_FOLDER}"
 mkdir -p "${ARDEA_ALA_OUTPUT_FOLDER}"
 
 ARDEA_ALA_CORE_ID_INDEX="26"
@@ -31,7 +31,7 @@ ${DWCA_UTILS_PATH}dwcacheck --input "${OUTPUT_FOLDER}Mapped-ArdeaIbis-ALA-Archiv
 
 # Stage 2: Ardea ibis from GBIF
 ARDEA_GBIF_OUTPUT_FOLDER="${OUTPUT_FOLDER}Mapped-ArdeaIbis-GBIF/"
-rm -rf "${ARDEA_GBIF_OUTPUT_FOLDER}"
+rm -r "${ARDEA_GBIF_OUTPUT_FOLDER}"
 mkdir -p "${ARDEA_GBIF_OUTPUT_FOLDER}"
 
 ARDEA_GBIF_CORE_ID_INDEX="290"
@@ -56,7 +56,7 @@ ${DWCA_UTILS_PATH}dwcacheck --input "${OUTPUT_FOLDER}Mapped-ArdeaIbis-GBIF-Archi
 
 # Stage 3 : Merge the ALA and GBIF copies for ArdeaIbis
 ARDEA_MERGED_OUTPUT_FOLDER="${OUTPUT_FOLDER}Mapped-ArdeaIbis-Merged/"
-rm -rf "${ARDEA_MERGED_OUTPUT_FOLDER}"
+rm -r "${ARDEA_MERGED_OUTPUT_FOLDER}"
 mkdir -p "${ARDEA_MERGED_OUTPUT_FOLDER}"
 
 ${DWCA_UTILS_PATH}dwcamerge --input "${OUTPUT_FOLDER}Mapped-ArdeaIbis-ALA-Archive.zip" --other-input "${OUTPUT_FOLDER}Mapped-ArdeaIbis-GBIF-Archive.zip" --output "${ARDEA_MERGED_OUTPUT_FOLDER}"
@@ -68,7 +68,7 @@ ${DWCA_UTILS_PATH}dwcacheck --input "${OUTPUT_FOLDER}Mapped-ArdeaIbis-Merged-Arc
 
 # Stage 4 : Merge the ALA and GBIF copies for Ardea ibis leaving out non-vocabulary terms
 ARDEA_MERGED_CLEAN_OUTPUT_FOLDER="${OUTPUT_FOLDER}Mapped-ArdeaIbis-Merged-Clean/"
-rm -rf "${ARDEA_MERGED_CLEAN_OUTPUT_FOLDER}"
+rm -r "${ARDEA_MERGED_CLEAN_OUTPUT_FOLDER}"
 mkdir -p "${ARDEA_MERGED_CLEAN_OUTPUT_FOLDER}"
 
 ${DWCA_UTILS_PATH}dwcamerge --input "${OUTPUT_FOLDER}Mapped-ArdeaIbis-ALA-Archive.zip" --other-input "${OUTPUT_FOLDER}Mapped-ArdeaIbis-GBIF-Archive.zip" --output "${ARDEA_MERGED_CLEAN_OUTPUT_FOLDER}" --remove-non-vocabulary-terms true
