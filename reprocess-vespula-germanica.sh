@@ -15,6 +15,7 @@ VESPULA_ALA_OUTPUT_FOLDER="${OUTPUT_FOLDER}Mapped-VespulaGermanica-ALA/"
 rm -rf "${VESPULA_ALA_OUTPUT_FOLDER}"
 mkdir -p "${VESPULA_ALA_OUTPUT_FOLDER}"
 
+# catalogNumber is in column 27 (converting to 0-based index for Darwin Core Archive so we use 26)
 VESPULA_ALA_CORE_ID_INDEX="26"
 
 cp "${INPUT_FOLDER}Vespula germanica 2017-05-12/Vespula germanica 2017-05-12.csv" "${VESPULA_ALA_OUTPUT_FOLDER}Source-VespulaGermanica-ALA.csv"
@@ -34,7 +35,10 @@ VESPULA_GBIF_OUTPUT_FOLDER="${OUTPUT_FOLDER}Mapped-VespulaGermanica-GBIF/"
 rm -rf "${VESPULA_GBIF_OUTPUT_FOLDER}"
 mkdir -p "${VESPULA_GBIF_OUTPUT_FOLDER}"
 
-VESPULA_GBIF_CORE_ID_INDEX="0"
+# gbifid is the primary key in the vespula germanica source in column 1, (converts to 0 for the 0-based index used by the Darwin Core Archive)
+#VESPULA_GBIF_CORE_ID_INDEX="0"
+# column 291 contains the catalogNumber from GBIF, so converts to 290 for a 0-based index to use with the Darwin Core Archive
+VESPULA_GBIF_CORE_ID_INDEX="290"
 
 cp "${INPUT_FOLDER}Vespula_germanica_global.csv" "${VESPULA_GBIF_OUTPUT_FOLDER}Source-VespulaGermanica-GBIF.csv"
 

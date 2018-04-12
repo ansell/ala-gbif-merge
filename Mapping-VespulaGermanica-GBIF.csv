@@ -1,5 +1,5 @@
 OldField,NewField,Shown,Language,Mapping
-gbifid,catalogNumber,,Javascript,"return inputValue.equalsIgnoreCase(""NULL"") ? """" : inputValue;"
+gbifid,gbifid,,Javascript,"return inputValue.equalsIgnoreCase(""NULL"") ? """" : inputValue;"
 v_abstract,v_abstract,,Javascript,"return inputValue.equalsIgnoreCase(""NULL"") ? """" : inputValue;"
 v_accessrights,v_accessrights,,Javascript,"return inputValue.equalsIgnoreCase(""NULL"") ? """" : inputValue;"
 v_accrualmethod,v_accrualmethod,,Javascript,"return inputValue.equalsIgnoreCase(""NULL"") ? """" : inputValue;"
@@ -289,7 +289,7 @@ informationwithheld,informationwithheld,,Javascript,"return inputValue.equalsIgn
 datageneralizations,datageneralizations,,Javascript,"return inputValue.equalsIgnoreCase(""NULL"") ? """" : inputValue;"
 dynamicproperties,dynamicproperties,,Javascript,"return inputValue.equalsIgnoreCase(""NULL"") ? """" : inputValue;"
 occurrenceid,occurrenceid,,Javascript,"return inputValue.equalsIgnoreCase(""NULL"") ? """" : inputValue;"
-catalognumber,gbifCatalogNumber,,Javascript,"return inputValue.equalsIgnoreCase(""NULL"") ? """" : inputValue;"
+catalognumber,catalognumber,,Javascript,"return inputValue.equalsIgnoreCase(""NULL"") ? """" : inputValue;"
 recordnumber,recordnumber,,Javascript,"return inputValue.equalsIgnoreCase(""NULL"") ? """" : inputValue;"
 recordedby,recordedby,,Javascript,"return inputValue.equalsIgnoreCase(""NULL"") ? """" : inputValue;"
 individualcount,individualcount,,Javascript,"return inputValue.equalsIgnoreCase(""NULL"") ? """" : inputValue;"
