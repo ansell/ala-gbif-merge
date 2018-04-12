@@ -16,8 +16,6 @@ rm -rf "${ACACIA_ALA_OUTPUT_FOLDER}"
 mkdir -p "${ACACIA_ALA_OUTPUT_FOLDER}"
 
 # catalogNumber is in column 12 (0-based index makes that 11) in the ALA Acacia longifolia data
-# It isn't technically a primary key, but close enough
-# If it worries anyway, easy enough to remove the missing and duplicate catalogNumber
 ACACIA_ALA_CORE_ID_INDEX="11"
 
 cp "${INPUT_FOLDER}Acacia longifolia filtered and sorted/Acacia longifolia ALA data sorted.csv" "${ACACIA_ALA_OUTPUT_FOLDER}Source-AcaciaLongifolia-ALA.csv"
@@ -37,8 +35,6 @@ rm -rf "${ACACIA_GBIF_OUTPUT_FOLDER}"
 mkdir -p "${ACACIA_GBIF_OUTPUT_FOLDER}"
 
 # catalogNumber is in column 6 (0-based index makes that 5) in the GBIF Acacia longifolia data
-# It isn't technically a primary key, but close enough
-# If it worries anyway, easy enough to remove the missing and duplicate catalogNumber
 ACACIA_GBIF_CORE_ID_INDEX="5"
 
 cp "${INPUT_FOLDER}Acacia longifolia filtered and sorted/Acacia longifolia GBIF data.csv" "${ACACIA_GBIF_OUTPUT_FOLDER}Source-AcaciaLongifolia-GBIF.csv"
