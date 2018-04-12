@@ -15,6 +15,7 @@ ARDEA_ALA_OUTPUT_FOLDER="${OUTPUT_FOLDER}Mapped-ArdeaIbis-ALA/"
 rm -r "${ARDEA_ALA_OUTPUT_FOLDER}"
 mkdir -p "${ARDEA_ALA_OUTPUT_FOLDER}"
 
+# The field in column 27 is catalogNumber, which is converted to a 0-based index for the Darwin Core Archive, so we set it to 26 here
 ARDEA_ALA_CORE_ID_INDEX="26"
 
 cp "${INPUT_FOLDER}Ardea ibis 2017-05-11/records-2017-05-11.csv" "${ARDEA_ALA_OUTPUT_FOLDER}Source-ArdeaIbis-ALA.csv"
@@ -34,6 +35,8 @@ ARDEA_GBIF_OUTPUT_FOLDER="${OUTPUT_FOLDER}Mapped-ArdeaIbis-GBIF/"
 rm -r "${ARDEA_GBIF_OUTPUT_FOLDER}"
 mkdir -p "${ARDEA_GBIF_OUTPUT_FOLDER}"
 
+# The field in column 291 is catalogNumber, which is converted to a 0-based index for the Darwin Core Archive, so we set it to 290 here
+# Note, the column is actually named "catalognumber", but we are using "--match-case-insensitive true" when calling csv2dwca to match it with catalogNumber
 ARDEA_GBIF_CORE_ID_INDEX="290"
 
 cp "${INPUT_FOLDER}Bubulcus_ibis_global.csv" "${ARDEA_GBIF_OUTPUT_FOLDER}Source-ArdeaIbis-GBIF.csv"
