@@ -54,4 +54,4 @@ From: https://www.dropbox.com/sh/f7bi1rl6pfxv8jj/AAB6iO_HP_6v2KgjGkj6rETia/Vespu
 * Download ``Vespula germanica 2017-05-12.csv`` into ``Source-Files/Vespula germanica 2017-05-12/Vespula germanica 2017-05-12.csv``
 * Download ``headings.csv`` into ``Source-Files/Vespula germanica 2017-05-12/headings.csv``
 
-Run ``./reprocess-ardea-ibis.sh`` to perform the analysis again.
+Run ``./reprocess-vespula-germanica.sh`` to perform the analysis again.
